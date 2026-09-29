@@ -1,4 +1,5 @@
 @echo off
+color a
 setlocal enabledelayedexpansion
 title Universal Software Auto-Installer
 
